@@ -1,0 +1,9 @@
+# SiliconFlow 调用参数，每行一个 key=value，# 开头为注释
+# 模型名，见 SiliconFlow 文档
+model=Qwen/Qwen2.5-72B-Instruct
+# API 基础地址，一般不需改
+base_url=https://api.siliconflow.cn/v1
+# 最大生成长度
+max_tokens=2000
+# 温度，0~1
+temperature=0.7

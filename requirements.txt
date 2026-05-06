@@ -1,0 +1,18 @@
+
+# 基础框架
+streamlit>=1.30.0
+
+# 数据处理与分析
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 网络请求（用于调用 TA API）
+requests>=2.31.0
+
+# 可视化增强（Streamlit 自带基础图表，但 Plotly 更适合广告数据对比）
+plotly>=5.18.0
+
+# 处理日期时间（如果需要更复杂的计算）
+python-dateutil>=2.8.2
+
+matplotlib
